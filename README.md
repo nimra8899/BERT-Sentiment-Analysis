@@ -205,14 +205,5 @@ This project helped me understand:
 * Improve the Gradio UI
 * Deploy the application online
 
-## 👩‍💻 Author
 
-**Nimra Jabbar**
 
-MS Data Science | AI/ML Enthusiast
-
-GitHub: https://github.com/nimra8899
-
-## 📌 Disclaimer
-
-This project was created for educational purposes to learn NLP, BERT, Hugging Face Transformers, PyTorch, and Gradio.
